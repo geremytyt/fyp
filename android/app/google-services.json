@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "247900861989",
+    "project_id": "fyp-mytravelmate",
+    "firebase_url": "https://fyp-mytravelmate-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "storage_bucket": "fyp-mytravelmate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247900861989:android:0e47ea0fec99cad5a971cc",
+        "android_client_info": {
+          "package_name": "com.example.my_travel_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCba4pMD9RmyL-GDMHdYGy10DqmmjAiePI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
